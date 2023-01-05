@@ -365,7 +365,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 > Raspberry Pi é uma série de mini-computadores de placa única multiplataforma, de tamanho reduzido com componentes integrados, que se conecta a um monitor de computador ou televisão, e usa um teclado e um mouse padrão.
 
 - [Raspberry Pi - W3Schools](https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
-- [Documentação do Raspberry Pi](https://www.raspberrypi.com/documentation/) - Documentação Oficial do PostgreeSQL em inglês
+- [Documentação do Raspberry Pi](https://www.raspberrypi.com/documentation/) - Documentação Oficial do Raspberry Pi em inglês
 - [Curso de Raspberry Pi](#) - Cursos de Raspberry Pi diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ AWS Cloud
